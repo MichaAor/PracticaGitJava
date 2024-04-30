@@ -13,7 +13,7 @@ public class Main {
         System.out.println("El resultado de la resta es: ");
 
         System.out.println("El resultado de la multiplicacion es: " + multiplicacion(val1,val2));
-        System.out.println("El resultado de la division es: " + division(val1,val2));
+        System.out.println("El resultado de la division es: " + division(val1,val2));it 
     }
     public static int multiplicacion (int numeroA, int numeroB){
         return (numeroA * numeroB);
